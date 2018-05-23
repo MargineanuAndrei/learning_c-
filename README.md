@@ -1,1 +1,2 @@
-# Learning exercices C++
+# Learning exercices for C++
+
